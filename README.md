@@ -1,4 +1,14 @@
-# README
+# Gift Exchange
+
+Plan your Secret Santa gift exchange with ease!
+
+## Installation
+
+## Contribution
+
+## License
+
+[MIT License](./LICENSE.md)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
